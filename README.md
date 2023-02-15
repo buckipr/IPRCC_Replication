@@ -1,6 +1,6 @@
 # Creating Replication Packages <br> IPR Community &amp; Collaboration Workshop (Feb 15th, 2023)
 
-Slides can be found here (include link)
+[PDF](https://github.com/buckipr/IPRCC_Replication/blob/main/replication.pdf) of the slides can be found above
 
 ## Examples of Guidelines
 
