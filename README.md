@@ -1,4 +1,4 @@
-# Creating Replication Packages <br> IPR Community &amp; Collaboration Workshop (Feb 2nd, 2023)
+# Creating Replication Packages <br> IPR Community &amp; Collaboration Workshop (Feb 15th, 2023)
 
 Slides can be found here (include link)
 
@@ -36,15 +36,47 @@ information from ethnographic interviews)." (p. 16)
 
 ## Useful Tools
 
+* R
+
+  + [R Markdown](https://rmarkdown.rstudio.com/articles_intro.html) -- combine your results and
+  manuscript into a single document
+  
+  + [stargazer](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf)
+  
+  + [kableExtra](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+  
+  + [furniture](https://cran.r-project.org/web/packages/furniture/vignettes/Furniture.html)
+ 
+* Stata
+
+  + [Markstat for Stata](https://grodri.github.io/markstat/docx)
+
+  + [Tools starting with Stata 15](https://www.stata.com/stata15/create-word-documents/)
+
+  + [Tables in Stata 17](https://www.stata.com/new-in-stata/tables/)
+  
+  + [estout](http://repec.org/bocode/e/estout/estout.html) and [tabstat](https://www.stata.com/manuals/rtabstat.pdf)
+  
+* [StatTag](https://sites.northwestern.edu/stattag/)
 
 
 ## Example Replication Packages & Articles
+
+* [Van Hood & Bachmeier (Dem Res 29-1)](https://www.demographic-research.org/volumes/vol29/1/default.htm)
+
+* [Ambugo & Yahirun (Dem Res 34-8)](https://www.demographic-research.org/volumes/vol34/8/default.htm)
+
+* [Saccardo & Serra-Garcia AER 113-2](https://www.aeaweb.org/articles?id=10.1257/aer.20201333)
+
+* [Clark Demography 2019](https://github.com/sinafala/svd-comp)
+
+* [Hauer Open Sci](https://github.com/mathewhauer/county_projections_official)
+
+* [Hauer NC](https://github.com/mathewhauer/SLR-typology-replication)
 
 * [Examples in Economics hosted on Zenodo](https://zenodo.org/communities/restud-replication/?page=1&size=20)
 
 ## Miscellaneous links
 
 * [Social Science Data Editors](https://social-science-data-editors.github.io/guidance/)
-
-
 
