@@ -62,7 +62,7 @@ information from ethnographic interviews)." (p. 16)
 
 ## Example Replication Packages & Articles
 
-* [Van Hood & Bachmeier (Dem Res 29-1)](https://www.demographic-research.org/volumes/vol29/1/default.htm)
+* [Van Hook & Bachmeier (Dem Res 29-1)](https://www.demographic-research.org/volumes/vol29/1/default.htm)
 
 * [Ambugo & Yahirun (Dem Res 34-8)](https://www.demographic-research.org/volumes/vol34/8/default.htm)
 
